@@ -1,7 +1,7 @@
 # **Customer Segmentation Using Clustering**
 
 ## 📌 Project Overview  
-This project applies **unsupervised machine learning** techniques to segment customers based on their purchasing behaviour. Using **K-Means and Hierarchical Clustering**, customers are grouped based on **frequency, recency, customer lifetime value (CLV), average unit cost, and customer age** to uncover distinct customer personas. The analysis helps refine marketing strategies by identifying key customer groups.
+This project applies **unsupervised machine learning** techniques to segment customers based on their purchasing behaviour. Using **K-Means and Hierarchical Clustering**, customers are grouped based on **frequency, recency, customer lifetime value (CLV), customer age and average unit cost,** to uncover distinct customer personas. The analysis helps refine marketing strategies by identifying key customer groups.
 
 ## 📊 Key Features  
 - **🔍 Data Preprocessing:** Cleaning, handling missing values, and feature engineering.  
