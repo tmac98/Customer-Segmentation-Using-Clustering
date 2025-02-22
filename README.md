@@ -22,8 +22,8 @@ The analysis identified **five customer segments** with distinct purchasing patt
 📌 **Silhouette Score and Elbow Method** confirmed that **K=5** was the best choice for clustering.
 
 ## 📂 Project Files  
-📄 **[Jupyter Notebook: Customer Segmentation](./Customer_Segmentation_Notebook.ipynb)**  
-📑 **[Detailed Report: Customer Segmentation](./Customer%20Segmentation%20Report.pdf)**  
+📄 **[Jupyter Notebook: Customer Segmentation Using Clustering](./Customer_Segmentation_Notebook.ipynb)**  
+📑 **[Detailed Report: Customer Segmentation Using Clustering](./Customer%20Segmentation%20Report.pdf)**  
 
 ## 🛠 Technologies Used  
 - 🐍 **Python:** Pandas, NumPy, Scikit-Learn, Seaborn, Matplotlib  
